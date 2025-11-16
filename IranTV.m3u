@@ -1,0 +1,228 @@
+#EXTM3U
+
+#EXTINF:0,Radio Javan
+https://rjtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0,Avang TV
+https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:0,Tapesh
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+
+#EXTINF:0,Manoto HD
+https://late-sky-0e1a.zahsytwdtjgjhasxby.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
+
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
+https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
+https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+#EXTINF:0,BBC Farsi
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-p.m3u8?
+#EXTINF:0,VOA News Farsi
+http://63.237.48.28/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:0,MTC
+rtmp://mellitv.tulix.tv/mellitv//myStream.sdp
+
+
+#EXTINF:0,PMC
+https://GLWizHSTB42.glwiz.com:443/PMCMusic_HD.m3u8?user=sgls76551&amp;session=8a4be51a2a33e44f9ad73af92621c9ff7ab6307c0edd13bc6a066af62ff6d30acf03001232089688&amp;group_id=76551
+http://63.237.48.28/ios/PMC/PMC.m3u8
+#EXTINF:0,Tapesh
+http://63.237.48.28/ios/TAPESH/TAPESH.m3u8
+#EXTINF:0,ITN
+http://63.237.48.28/ios/ITN/ITN.m3u8
+#EXTINF:0,GEM TV
+http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
+#EXTINF:0,GEM One USA
+http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:0,GEM River
+http://63.237.48.28/ios/GEM_RIVER/GEM_RIVER.m3u8
+#EXTINF:0,GEM Rubix
+http://63.237.48.28/ios/GEM_RUBIX/GEM_RUBIX.m3u8
+#EXTINF:0,GEM Life
+http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
+#EXTINF:0,GEM Onyx
+http://63.237.48.28/ios/ONYX/ONYX.m3u8
+#EXTINF:0,GEM Bollywood
+http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
+#EXTINF:0,GEM MIFA
+http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
+#EXTINF:0,GEM Junior
+http://63.237.48.28/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
+#EXTINF:0,GEM Kurd
+http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
+
+
+#EXTINF:0,Tin TV
+http://66.160.192.240:1935/afn/afn2/chunklist_w1341612073.m3u8
+#EXTINF:0,HTV Network
+rtmp://66.160.192.249/htv-tvboxm//htv-tvboxm
+#EXTINF:0,AFN Music Channel
+http://66.160.192.240:1935/afn/afn/chunklist_w1270954453.m3u8
+#EXTINF:0,Asre Emrooz TV
+rtmp://66.160.192.243/TVBOXUSA-ASREEMROOZ/asmz
+#EXTINF:0,Zarin TV
+http://fss24.streamhoster.com/lv_zarintv/_definst_/smil:broadcast1.smil/chunklist_w876512392_b700000.m3u8?expires=1480862476&signature=345FB42F42567B57EB2E675C349F62D966D728F2&token=LSAejwuN+zBddpkubdnVcYDRK%2FUtprKUBxM%2FGAHRYInrfASUC1DUrHdyjZE0X7xbK+ootn7tKeX1SKd2iR5e7J8+o9J2kH3UINE12zzCnb4%3D
+#EXTINF:0,Ganj e Hozour
+http://topfi.ios.internapcdn.net/topfi/live_1/LowMobile/LowMobile.m3u8
+#EXTINF:0,Mohabat TV
+rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_240p
+#EXTINF:0,ICnet
+http://216.249.1.105:1935/ICNET/ngrp:myStream_all/chunklist_w461002735_b1431072.m3u8
+#EXTINF:0,Shabakeh 7
+http://97.107.115.84:1935/live/smil:webstream.smil/chunklist_w1095825091_b1628000.m3u8
+#EXTINF:0,Sat 7 Pars
+http://uni8rtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w718329184_b1000000_t64NDgwcA==.m3u8
+#EXTINF:0,Payvand TV
+rtmp://uni6rtmp.tulix.tv/ucur1/Payvand
+#EXTINF:0,Mihan TV
+http://watch.mihantv.com/mihantvlive.isml/QualityLevels(1596000)/manifest(format=m3u8-aapl)
+#EXTINF:0,AssyriaSat
+mms://66.242.170.200/AssyriaSat
+#EXTINF:0,NamMa TV
+rtmp://103.228.220.250/livestream/livestream//livestream
+#EXTINF:0,Zartosht TV
+rtmp://stream.ssh101.com/live//ZartoshtTV
+#EXTINF:0,Zagros TV
+http://198.100.158.231:1935/kanal10/_definst_/livestream/chunklist_w1403532219.m3u8
+#EXTINF:0,Gunaz TV HD
+http://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/chunklist_w1647157822_b2000000.m3u8
+#EXTINF:0,Az Star TV HD
+rtmp://yayin.azstartv.com/azstartv//azstartv
+#EXTINF:0,Az TV
+http://live.mediabay.tv/119f67531d206a207e1d3f2156744a47/live/a686ed7a5b1ce3973df5c454dbc4abf6c3c2561f9bffa3e44e859bf233cd3b9dfd8bdedd43d78cd952a9eb5c57582aa82b937d7221713a7b2a5a9fa014b93e9b38cbba0ce9c0918323def10a7ac5de61/chunklist.m3u8
+#EXTINF:0,Kurdistan TV
+rtmp://84.244.187.210/live/livestream
+#EXTINF:0,Ariana TV
+http://atn.ercdn.net/atn.m3u8
+#EXTINF:0,Payame Afghan
+rtmp://livestream-fs.5centscdn.com/live12345/payameafghantv.stream
+#EXTINF:0,Labbaik TV
+rtmp://labbaikmedia.irib.ir/labbaiktv//labbaik
+#EXTINF:0,Imam Hussein 1
+http://live.imamhusseintv.com/live/ih1.m3u8
+#EXTINF:0,Imam Hussein 2
+http://live.imamhusseintv.com/live/ih2.m3u8
+#EXTINF:0,Imam Hussein 3
+http://live.imamhusseintv.com/live/ih3.m3u8
+
+
+#EXTINF:0,IRIB 1 HD
+https://lb-cdn.sepehrtv.ir/securelive3/tv1hd/tv1hd.m3u8?s=rCT-eMjo9U7tTjOiAMFQeQ\u0026t=1763259752
+http://irib-live.arvancloud.com/tv1/tv1_480/index.m3u8
+#EXTINF:0,IRIB 2 HD
+http://irib-live.arvancloud.com/tv2/tv2_480/index.m3u8
+#EXTINF:0,IRIB 3 HD
+http://irib-live.arvancloud.com/tv3/tv3_480/index.m3u8
+#EXTINF:0,IRIB 4 HD
+http://irib-live.arvancloud.com/tv4/tv4_480/index.m3u8
+#EXTINF:0,IRIB 5 HD
+http://irib-live.arvancloud.com/tv5/tv5_480/index.m3u8
+#EXTINF:0,Khabar
+http://irib-live.arvancloud.com/irinn/irinn_360/index.m3u8
+#EXTINF:0,Amouzesh
+http://irib-live.arvancloud.com/amouzesh/amouzesh_360/index.m3u8
+#EXTINF:0,Varzesh
+http://irib-live.arvancloud.com/varzesh/varzesh_360/index.m3u8
+#EXTINF:0,IFILM
+http://irib-live.arvancloud.com/ifilmfa/ifilmfa_360/index.m3u8
+#EXTINF:0,Nasim
+http://irib.arvan.tv/hls/irib/nasim/nasim_480p/index.m3u8
+#EXTINF:0,Shoma
+http://irib-live.arvancloud.com/shoma/shoma_360/index.m3u8
+#EXTINF:0,Mostanad
+http://irib-live.arvancloud.com/mostanad/mostanad_360/index.m3u8
+#EXTINF:0,Ofogh
+http://irib-live.arvancloud.com/ofogh/ofogh_360/index.m3u8
+#EXTINF:0,Omid
+http://irib-live.arvancloud.com/omid/omid_360/index.m3u8
+#EXTINF:0,Tamasha
+http://irib-live.arvancloud.com/tamasha/tamasha_360/index.m3u8
+#EXTINF:0,Namayesh
+http://irib-live.arvancloud.com/namayesh/namayesh_360/index.m3u8
+#EXTINF:0,Salamat
+http://irib-live.arvancloud.com/salamat/salamat_360/index.m3u8
+#EXTINF:0,Kodak va Nojavan
+http://irib-live.arvancloud.com/pouya/pouya_360/index.m3u8
+#EXTINF:0,Quran
+http://irib-live.arvancloud.com/quran/quran_360/index.m3u8
+#EXTINF:0,Jaame Jam
+http://irib-live.arvancloud.com/jjtvn1/jjtvn1_360/index.m3u8
+#EXTINF:0,Sahar 1
+http://irib-live.arvancloud.com/sahar1/sahar1_360/index.m3u8
+#EXTINF:0,Sahar 2
+http://irib-live.arvancloud.com/sahar2/sahar2_360/index.m3u8
+#EXTINF:0,Sahar 3
+http://irib-live.arvancloud.com/sahar3/sahar3_360/index.m3u8
+#EXTINF:0,Alkosar
+http://irib-live.arvancloud.com/alkosar/alkosar_360/index.m3u8
+#EXTINF:0,Alalam
+http://irib-live.arvancloud.com/alalam/alalam_360/index.m3u8
+#EXTINF:0,PressTV
+http://irib-live.arvancloud.com/presstv/presstv_360/index.m3u8
+
+
+#EXTINF:0,Esfahan
+http://irib-live.arvancloud.com/esfahan/esfahan_360/index.m3u8
+#EXTINF:0,Khorasan Razavi
+http://irib-live.arvancloud.com/khorasanrazavi/khorasanrazavi_360/index.m3u8
+#EXTINF:0,Khorasan Shomali
+http://irib-live.arvancloud.com/khorasanshomali/khorasanshomali_360/index.m3u8
+#EXTINF:0,Khorasan Jonoobi
+http://irib-live.arvancloud.com/khorasanjonoobi/khorasanjonoobi_360/index.m3u8
+#EXTINF:0,Fars
+http://irib-live.arvancloud.com/fars/fars_360/index.m3u8
+#EXTINF:0,Khoozestan
+http://irib-live.arvancloud.com/khoozestan/khoozestan_360/index.m3u8
+#EXTINF:0,Kordestan
+http://irib-live.arvancloud.com/kordestan/kordestan_360/index.m3u8
+#EXTINF:0,Bushehr
+http://irib-live.arvancloud.com/bushehr/bushehr_360/index.m3u8
+#EXTINF:0,Azarbayjan
+http://irib-live.arvancloud.com/azarbayjan/azarbayjan_360/index.m3u8
+#EXTINF:0,Khalije Fars
+http://irib-live.arvancloud.com/khalijefars/khalijefars_360/index.m3u8
+#EXTINF:0,Hamedan
+http://irib-live.arvancloud.com/hamedan/hamedan_360/index.m3u8
+#EXTINF:0,Qazvin
+http://irib-live.arvancloud.com/qazvin/qazvin_360/index.m3u8
+#EXTINF:0,Semnan
+http://irib-live.arvancloud.com/semnan/semnan_360/index.m3u8
+#EXTINF:0,Kerman
+http://irib-live.arvancloud.com/kerman/kerman_360/index.m3u8
+#EXTINF:0,Alborz
+http://irib-live.arvancloud.com/alborz/alborz_360/index.m3u8
+#EXTINF:0,Rasht - Baran
+http://irib-live.arvancloud.com/baran/baran_360/index.m3u8
+#EXTINF:0,Qoum - Noor
+http://irib-live.arvancloud.com/noor/noor_360/index.m3u8
+#EXTINF:0,Yazd - Taban
+http://irib-live.arvancloud.com/taban/taban_360/index.m3u8
+#EXTINF:0,Azarbayjan Sharghi - Sahand
+http://irib-live.arvancloud.com/sahand/sahand_360/index.m3u8
+#EXTINF:0,Sistan va Baluchestan - Hamoon
+http://irib-live.arvancloud.com/hamoon/hamoon_360/index.m3u8
+#EXTINF:0,Chaharmahal va Bakhtiari - Jahanbin
+http://irib-live.arvancloud.com/jahanbin/jahanbin_360/index.m3u8
+#EXTINF:0,Kohgiloyeh va Boyerahmad - Dena
+http://irib-live.arvancloud.com/dena/dena_360/index.m3u8
+#EXTINF:0,Lorestan - Aflak
+http://irib-live.arvancloud.com/aflak/aflak_360/index.m3u8
+#EXTINF:0,Arak Markazi - Aftab
+http://irib-live.arvancloud.com/aftab/aftab_360/index.m3u8
+#EXTINF:0,Eshragh - Zanjan
+http://irib-live.arvancloud.com/eshragh/eshragh_360/index.m3u810
+#EXTINF:0,Sabalan
+http://irib-live.arvancloud.com/sabalan/sabalan_360/index.m3u8
+#EXTINF:0,Mahabad
+http://irib-live.arvancloud.com/mahabad/mahabad_360/index.m3u8
+#EXTINF:0,Golestan
+http://irib-live.arvancloud.com/golestan/golestan_360/index.m3u8
+#EXTINF:0,Ilam
+http://irib-live.arvancloud.com/ilam/ilam_360/index.m3u8
+#EXTINF:0,Kermanshah
+http://irib-live.arvancloud.com/kermanshah/kermanshah_360/index.m3u8
+
+
